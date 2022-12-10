@@ -1,6 +1,7 @@
-# Juan Daniel Olaya
 
-### Hola 👋
+### Hola, soy Daniel 👋
+
+### Desarrollador Backend
 
 <!--
 **d4niel-olaya/d4niel-olaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
