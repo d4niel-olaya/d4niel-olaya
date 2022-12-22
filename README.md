@@ -1,9 +1,14 @@
 
 ### Hola, soy Daniel 👋
 
-### Desarrollador Backend con experiencia en tecnologías como node.js con express, php, Nest.js(en proceso) y Bases de datos SQL
+### Desarrollador Backend con experiencia en tecnologías como Node.js con Express, PHP, Typescript, Nest.js(en proceso) y Bases de datos SQL
 
+#### En mi tiempo libre disfruto de hacer deporte y jugar videojuegos :D
 
+### Proyectos
+
+- [Movies-Ecommerce](https://github.com/d4niel-olaya/MoviesEcommerce)
+- [Blog](https://github.com/d4niel-olaya/blogTs)
 
 <!--
 **d4niel-olaya/d4niel-olaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
