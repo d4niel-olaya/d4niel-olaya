@@ -1,7 +1,9 @@
 
 ### Hola, soy Daniel 👋
 
-### Desarrollador Backend
+### Desarrollador Backend con experiencia en tecnologías como node.js con express, php, Nest.js(en proceso) y Bases de datos SQL
+
+
 
 <!--
 **d4niel-olaya/d4niel-olaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
