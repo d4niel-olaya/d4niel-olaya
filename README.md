@@ -1,7 +1,15 @@
 
 ### Hola, soy Daniel 👋
 
-### Desarrollador Backend con experiencia en tecnologías como Node.js con Express, PHP, Typescript, Nest.js(en proceso) y Bases de datos SQL
+### Desarrollador Backend Jr
+
+### Tecnologías
+ - Node.js
+ - Express
+ - PHP
+ - Typescript
+ - Nest.js( en proceso )}
+ - Bases de datos SQL
 
 #### En mi tiempo libre disfruto de hacer deporte y jugar videojuegos :D
 
