@@ -17,6 +17,7 @@
 
 - [Movies-Ecommerce](https://github.com/d4niel-olaya/MoviesEcommerce)
 - [Blog](https://github.com/d4niel-olaya/blogTs)
+- [Movies-Ecommerce SSR](https://github.com/cala-js/coex-buster)
 
 <!--
 **d4niel-olaya/d4niel-olaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
