@@ -8,7 +8,7 @@
  - Express
  - PHP
  - Typescript
- - Nest.js( en proceso )}
+ - .NET
  - Bases de datos SQL
 
 #### En mi tiempo libre disfruto de hacer deporte y jugar videojuegos :D
@@ -18,7 +18,7 @@
 - [Movies-Ecommerce](https://github.com/d4niel-olaya/MoviesEcommerce)
 - [Blog](https://github.com/d4niel-olaya/blogTs)
 - [Movies-Ecommerce SSR](https://github.com/cala-js/coex-buster)
-
+- [Personal ORM](https://github.com/d4niel-olaya/Personal-Orm)
 <!--
 **d4niel-olaya/d4niel-olaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
